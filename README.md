@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sjywz
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ...
-- 📫 sjywz@foxmail.com
+- 📫 ysjywz@gmail.com
 
 <!---
 sjywz/sjywz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
